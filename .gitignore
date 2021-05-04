@@ -1,0 +1,13 @@
+#Don't track these folders
+target/
+!**/src/main/**/target/
+!**src/main/test/
+
+
+#Don't track these files
+
+*.com
+*.class
+*.exe
+*.idea
+*.iml
