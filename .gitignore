@@ -1,8 +1,5 @@
 #Don't track these folders
 target/
-!**/src/main/**/target/
-!**src/main/test/
-
 
 #Don't track these files
 
@@ -10,4 +7,3 @@ target/
 *.class
 *.exe
 *.idea
-*.iml
